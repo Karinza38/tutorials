@@ -1,4 +1,4 @@
-# Cloning the repository
+ # Cloning the repository
 
 If you are getting an error while cloning the repository, try running:
 git config --global http.postBuffer 5000000
